@@ -28,14 +28,7 @@
 * **State Management:** Zustand / Local State Storage
 * **Deployment:** Vercel
 * **Version Control:** Git & GitHub
-
-## f. Screenshots of the App in Action
-*(Make sure to take 3 screenshots of your app running, save them to your repository under a `screenshots/` folder, and reference them below)*
-1. **Dashboard View:** ![Dashboard](./screenshots/dashboard.png)
-2. **Task & Project Manager:** ![Tasks](./screenshots/tasks.png)
-3. **AI Assistant Screen:** ![AI Screen](./screenshots/ai-screen.png)
-
-## g. How to Run the Project Locally
+## f. How to Run the Project Locally
 To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
